@@ -1,0 +1,14 @@
+.vscode
+.ipynb_checkpoints
+__pycache__
+
+data_uri.txt
+data.zip
+data.csv
+data2
+data
+data.txt
+
+*.pth
+provided-scripts/*.txt
+runs
