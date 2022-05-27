@@ -14,3 +14,9 @@ REQUIREMENT:
 - Pandas
 - xgboost
 - shap
+
+COLLABORATORS
+- Jack Champagne
+- Petros Filiogiannis
+- Joseph Gates
+- Xinzhi Liang
